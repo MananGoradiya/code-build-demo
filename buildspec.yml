@@ -32,3 +32,4 @@ artifacts:
   files:
     - 'build/*'
   name: demoProjectArtifact
+  
